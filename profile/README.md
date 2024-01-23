@@ -15,7 +15,7 @@ Welcome to join us!
 1. You can share your ideas and start a new project which can take the gospel to new people, places, and spaces.
 2. You can checkout the ideas and see if you want to join in the opening projects.
 3. You can give any opinions to us so that we can do better together!
-[More details](https://github.com/indigitoushk/.github/blob/main/README.md)
+<br>[More details](https://github.com/indigitoushk/.github/blob/main/README.md)
 
 ## Join us now!
 
@@ -30,4 +30,4 @@ Welcome to join us!
 1. 你可以分享你的想法，並開始一個項目，把福音在這數碼化的世代，帶給新的人、新的地方和新的空間。
 2. 你可以瀏覽他人的想法，並參與在其中。
 3. 你可以和我們分享你的意見，讓我們做得更好
-[More details](https://github.com/indigitoushk/.github/blob/main/README.md)
+<br>[More details](https://github.com/indigitoushk/.github/blob/main/README.md)
